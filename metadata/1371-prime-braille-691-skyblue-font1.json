@@ -1,0 +1,23 @@
+{
+    "name": "1371-prime-braille-691-skyblue-font1",
+    "description": "A unique braille art with prime number: 691, font-family: Apple Braille Outline 6 Dot and background-color: skyblue",
+    "image": "generated-arts/1371-prime-braille-691-skyblue-font1.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 691
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                86,
+                180,
+                233
+            ]
+        }
+    ]
+}

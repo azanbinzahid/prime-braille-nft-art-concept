@@ -1,0 +1,23 @@
+{
+    "name": "3973-prime-braille-197-vermillion-font3",
+    "description": "A unique braille art with prime number: 197, font-family: Swell-Braille and background-color: vermillion",
+    "image": "generated-arts/3973-prime-braille-197-vermillion-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 197
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                213,
+                94,
+                0
+            ]
+        }
+    ]
+}

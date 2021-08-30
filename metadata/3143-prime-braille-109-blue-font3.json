@@ -1,0 +1,23 @@
+{
+    "name": "3143-prime-braille-109-blue-font3",
+    "description": "A unique braille art with prime number: 109, font-family: Swell-Braille and background-color: blue",
+    "image": "generated-arts/3143-prime-braille-109-blue-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 109
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                0,
+                114,
+                178
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "4958-prime-braille-479-reddishpurple-font3",
+    "description": "A unique braille art with prime number: 479, font-family: Swell-Braille and background-color: reddishpurple",
+    "image": "generated-arts/4958-prime-braille-479-reddishpurple-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 479
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                204,
+                121,
+                167
+            ]
+        }
+    ]
+}

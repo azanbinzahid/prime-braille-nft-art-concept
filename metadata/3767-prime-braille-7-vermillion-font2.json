@@ -1,0 +1,23 @@
+{
+    "name": "3767-prime-braille-7-vermillion-font2",
+    "description": "A unique braille art with prime number: 7, font-family: Apple Braille Pinpoint 6 Dot and background-color: vermillion",
+    "image": "generated-arts/3767-prime-braille-7-vermillion-font2.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 7
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Pinpoint 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                213,
+                94,
+                0
+            ]
+        }
+    ]
+}

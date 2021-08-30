@@ -1,0 +1,23 @@
+{
+    "name": "5160-prime-braille-743-reddishpurple-font5",
+    "description": "A unique braille art with prime number: 743, font-family: Apple Braille Outline 8 Dot and background-color: reddishpurple",
+    "image": "generated-arts/5160-prime-braille-743-reddishpurple-font5.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 743
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 8 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                204,
+                121,
+                167
+            ]
+        }
+    ]
+}

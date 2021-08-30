@@ -1,0 +1,23 @@
+{
+    "name": "4803-prime-braille-283-reddishpurple-font3",
+    "description": "A unique braille art with prime number: 283, font-family: Swell-Braille and background-color: reddishpurple",
+    "image": "generated-arts/4803-prime-braille-283-reddishpurple-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 283
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                204,
+                121,
+                167
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "5239-prime-braille-857-reddishpurple-font4",
+    "description": "A unique braille art with prime number: 857, font-family: Apple Braille Pinpoint 8 Dot and background-color: reddishpurple",
+    "image": "generated-arts/5239-prime-braille-857-reddishpurple-font4.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 857
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Pinpoint 8 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                204,
+                121,
+                167
+            ]
+        }
+    ]
+}

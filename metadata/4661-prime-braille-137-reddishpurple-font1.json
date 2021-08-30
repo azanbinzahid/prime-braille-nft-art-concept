@@ -1,0 +1,23 @@
+{
+    "name": "4661-prime-braille-137-reddishpurple-font1",
+    "description": "A unique braille art with prime number: 137, font-family: Apple Braille Outline 6 Dot and background-color: reddishpurple",
+    "image": "generated-arts/4661-prime-braille-137-reddishpurple-font1.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 137
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                204,
+                121,
+                167
+            ]
+        }
+    ]
+}

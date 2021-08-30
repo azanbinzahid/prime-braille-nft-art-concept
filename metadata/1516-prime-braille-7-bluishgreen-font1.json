@@ -1,0 +1,23 @@
+{
+    "name": "1516-prime-braille-7-bluishgreen-font1",
+    "description": "A unique braille art with prime number: 7, font-family: Apple Braille Outline 6 Dot and background-color: bluishgreen",
+    "image": "generated-arts/1516-prime-braille-7-bluishgreen-font1.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 7
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                0,
+                158,
+                115
+            ]
+        }
+    ]
+}

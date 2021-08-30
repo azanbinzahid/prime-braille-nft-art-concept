@@ -1,0 +1,23 @@
+{
+    "name": "729-prime-braille-839-orange-font4",
+    "description": "A unique braille art with prime number: 839, font-family: Apple Braille Pinpoint 8 Dot and background-color: orange",
+    "image": "generated-arts/729-prime-braille-839-orange-font4.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 839
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Pinpoint 8 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                230,
+                159,
+                0
+            ]
+        }
+    ]
+}

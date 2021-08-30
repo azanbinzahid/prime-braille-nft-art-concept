@@ -1,0 +1,23 @@
+{
+    "name": "2664-prime-braille-431-yellow-font4",
+    "description": "A unique braille art with prime number: 431, font-family: Apple Braille Pinpoint 8 Dot and background-color: yellow",
+    "image": "generated-arts/2664-prime-braille-431-yellow-font4.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 431
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Pinpoint 8 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                240,
+                228,
+                66
+            ]
+        }
+    ]
+}

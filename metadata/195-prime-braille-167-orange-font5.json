@@ -1,0 +1,23 @@
+{
+    "name": "195-prime-braille-167-orange-font5",
+    "description": "A unique braille art with prime number: 167, font-family: Apple Braille Outline 8 Dot and background-color: orange",
+    "image": "generated-arts/195-prime-braille-167-orange-font5.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 167
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 8 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                230,
+                159,
+                0
+            ]
+        }
+    ]
+}

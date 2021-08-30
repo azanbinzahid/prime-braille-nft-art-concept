@@ -1,0 +1,23 @@
+{
+    "name": "3401-prime-braille-419-blue-font1",
+    "description": "A unique braille art with prime number: 419, font-family: Apple Braille Outline 6 Dot and background-color: blue",
+    "image": "generated-arts/3401-prime-braille-419-blue-font1.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 419
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                0,
+                114,
+                178
+            ]
+        }
+    ]
+}

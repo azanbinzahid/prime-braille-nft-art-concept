@@ -1,0 +1,23 @@
+{
+    "name": "5197-prime-braille-809-reddishpurple-font2",
+    "description": "A unique braille art with prime number: 809, font-family: Apple Braille Pinpoint 6 Dot and background-color: reddishpurple",
+    "image": "generated-arts/5197-prime-braille-809-reddishpurple-font2.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 809
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Pinpoint 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                204,
+                121,
+                167
+            ]
+        }
+    ]
+}

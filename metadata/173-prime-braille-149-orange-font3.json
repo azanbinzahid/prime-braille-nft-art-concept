@@ -1,0 +1,23 @@
+{
+    "name": "173-prime-braille-149-orange-font3",
+    "description": "A unique braille art with prime number: 149, font-family: Swell-Braille and background-color: orange",
+    "image": "generated-arts/173-prime-braille-149-orange-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 149
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                230,
+                159,
+                0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "383-prime-braille-389-orange-font3",
+    "description": "A unique braille art with prime number: 389, font-family: Swell-Braille and background-color: orange",
+    "image": "generated-arts/383-prime-braille-389-orange-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 389
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                230,
+                159,
+                0
+            ]
+        }
+    ]
+}

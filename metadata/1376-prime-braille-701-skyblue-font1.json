@@ -1,0 +1,23 @@
+{
+    "name": "1376-prime-braille-701-skyblue-font1",
+    "description": "A unique braille art with prime number: 701, font-family: Apple Braille Outline 6 Dot and background-color: skyblue",
+    "image": "generated-arts/1376-prime-braille-701-skyblue-font1.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 701
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                86,
+                180,
+                233
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "2136-prime-braille-719-bluishgreen-font1",
+    "description": "A unique braille art with prime number: 719, font-family: Apple Braille Outline 6 Dot and background-color: bluishgreen",
+    "image": "generated-arts/2136-prime-braille-719-bluishgreen-font1.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 719
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                0,
+                158,
+                115
+            ]
+        }
+    ]
+}

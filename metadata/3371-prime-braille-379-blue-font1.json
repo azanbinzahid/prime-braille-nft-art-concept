@@ -1,0 +1,23 @@
+{
+    "name": "3371-prime-braille-379-blue-font1",
+    "description": "A unique braille art with prime number: 379, font-family: Apple Braille Outline 6 Dot and background-color: blue",
+    "image": "generated-arts/3371-prime-braille-379-blue-font1.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 379
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                0,
+                114,
+                178
+            ]
+        }
+    ]
+}

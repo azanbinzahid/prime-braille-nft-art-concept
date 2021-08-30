@@ -1,0 +1,23 @@
+{
+    "name": "453-prime-braille-467-orange-font3",
+    "description": "A unique braille art with prime number: 467, font-family: Swell-Braille and background-color: orange",
+    "image": "generated-arts/453-prime-braille-467-orange-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 467
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                230,
+                159,
+                0
+            ]
+        }
+    ]
+}

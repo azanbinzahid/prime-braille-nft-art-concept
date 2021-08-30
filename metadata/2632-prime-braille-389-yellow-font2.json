@@ -1,0 +1,23 @@
+{
+    "name": "2632-prime-braille-389-yellow-font2",
+    "description": "A unique braille art with prime number: 389, font-family: Apple Braille Pinpoint 6 Dot and background-color: yellow",
+    "image": "generated-arts/2632-prime-braille-389-yellow-font2.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 389
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Pinpoint 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                240,
+                228,
+                66
+            ]
+        }
+    ]
+}

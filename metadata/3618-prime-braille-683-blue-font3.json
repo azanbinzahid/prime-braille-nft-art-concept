@@ -1,0 +1,23 @@
+{
+    "name": "3618-prime-braille-683-blue-font3",
+    "description": "A unique braille art with prime number: 683, font-family: Swell-Braille and background-color: blue",
+    "image": "generated-arts/3618-prime-braille-683-blue-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 683
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                0,
+                114,
+                178
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "4924-prime-braille-439-reddishpurple-font4",
+    "description": "A unique braille art with prime number: 439, font-family: Apple Braille Pinpoint 8 Dot and background-color: reddishpurple",
+    "image": "generated-arts/4924-prime-braille-439-reddishpurple-font4.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 439
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Pinpoint 8 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                204,
+                121,
+                167
+            ]
+        }
+    ]
+}

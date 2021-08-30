@@ -1,0 +1,23 @@
+{
+    "name": "635-prime-braille-709-orange-font5",
+    "description": "A unique braille art with prime number: 709, font-family: Apple Braille Outline 8 Dot and background-color: orange",
+    "image": "generated-arts/635-prime-braille-709-orange-font5.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 709
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 8 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                230,
+                159,
+                0
+            ]
+        }
+    ]
+}

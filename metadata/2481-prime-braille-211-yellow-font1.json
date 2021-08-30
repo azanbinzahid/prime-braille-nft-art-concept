@@ -1,0 +1,23 @@
+{
+    "name": "2481-prime-braille-211-yellow-font1",
+    "description": "A unique braille art with prime number: 211, font-family: Apple Braille Outline 6 Dot and background-color: yellow",
+    "image": "generated-arts/2481-prime-braille-211-yellow-font1.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 211
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                240,
+                228,
+                66
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "3988-prime-braille-223-vermillion-font3",
+    "description": "A unique braille art with prime number: 223, font-family: Swell-Braille and background-color: vermillion",
+    "image": "generated-arts/3988-prime-braille-223-vermillion-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 223
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                213,
+                94,
+                0
+            ]
+        }
+    ]
+}

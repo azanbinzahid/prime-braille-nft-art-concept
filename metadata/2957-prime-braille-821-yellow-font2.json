@@ -1,0 +1,23 @@
+{
+    "name": "2957-prime-braille-821-yellow-font2",
+    "description": "A unique braille art with prime number: 821, font-family: Apple Braille Pinpoint 6 Dot and background-color: yellow",
+    "image": "generated-arts/2957-prime-braille-821-yellow-font2.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 821
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Pinpoint 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                240,
+                228,
+                66
+            ]
+        }
+    ]
+}

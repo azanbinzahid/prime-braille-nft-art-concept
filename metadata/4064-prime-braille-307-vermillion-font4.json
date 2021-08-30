@@ -1,0 +1,23 @@
+{
+    "name": "4064-prime-braille-307-vermillion-font4",
+    "description": "A unique braille art with prime number: 307, font-family: Apple Braille Pinpoint 8 Dot and background-color: vermillion",
+    "image": "generated-arts/4064-prime-braille-307-vermillion-font4.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 307
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Pinpoint 8 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                213,
+                94,
+                0
+            ]
+        }
+    ]
+}

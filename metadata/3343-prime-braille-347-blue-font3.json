@@ -1,0 +1,23 @@
+{
+    "name": "3343-prime-braille-347-blue-font3",
+    "description": "A unique braille art with prime number: 347, font-family: Swell-Braille and background-color: blue",
+    "image": "generated-arts/3343-prime-braille-347-blue-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 347
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                0,
+                114,
+                178
+            ]
+        }
+    ]
+}

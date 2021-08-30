@@ -1,0 +1,23 @@
+{
+    "name": "4875-prime-braille-379-reddishpurple-font5",
+    "description": "A unique braille art with prime number: 379, font-family: Apple Braille Outline 8 Dot and background-color: reddishpurple",
+    "image": "generated-arts/4875-prime-braille-379-reddishpurple-font5.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 379
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 8 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                204,
+                121,
+                167
+            ]
+        }
+    ]
+}

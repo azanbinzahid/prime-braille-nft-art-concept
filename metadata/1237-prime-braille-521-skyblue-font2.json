@@ -1,0 +1,23 @@
+{
+    "name": "1237-prime-braille-521-skyblue-font2",
+    "description": "A unique braille art with prime number: 521, font-family: Apple Braille Pinpoint 6 Dot and background-color: skyblue",
+    "image": "generated-arts/1237-prime-braille-521-skyblue-font2.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 521
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Pinpoint 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                86,
+                180,
+                233
+            ]
+        }
+    ]
+}

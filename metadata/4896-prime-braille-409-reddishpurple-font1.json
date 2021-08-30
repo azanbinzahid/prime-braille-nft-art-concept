@@ -1,0 +1,23 @@
+{
+    "name": "4896-prime-braille-409-reddishpurple-font1",
+    "description": "A unique braille art with prime number: 409, font-family: Apple Braille Outline 6 Dot and background-color: reddishpurple",
+    "image": "generated-arts/4896-prime-braille-409-reddishpurple-font1.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 409
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                204,
+                121,
+                167
+            ]
+        }
+    ]
+}

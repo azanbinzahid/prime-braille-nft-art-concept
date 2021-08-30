@@ -1,0 +1,23 @@
+{
+    "name": "1508-prime-braille-3-bluishgreen-font3",
+    "description": "A unique braille art with prime number: 3, font-family: Swell-Braille and background-color: bluishgreen",
+    "image": "generated-arts/1508-prime-braille-3-bluishgreen-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 3
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                0,
+                158,
+                115
+            ]
+        }
+    ]
+}

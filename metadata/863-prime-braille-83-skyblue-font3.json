@@ -1,0 +1,23 @@
+{
+    "name": "863-prime-braille-83-skyblue-font3",
+    "description": "A unique braille art with prime number: 83, font-family: Swell-Braille and background-color: skyblue",
+    "image": "generated-arts/863-prime-braille-83-skyblue-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 83
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                86,
+                180,
+                233
+            ]
+        }
+    ]
+}

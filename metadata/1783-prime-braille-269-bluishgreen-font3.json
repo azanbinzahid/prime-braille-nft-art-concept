@@ -1,0 +1,23 @@
+{
+    "name": "1783-prime-braille-269-bluishgreen-font3",
+    "description": "A unique braille art with prime number: 269, font-family: Swell-Braille and background-color: bluishgreen",
+    "image": "generated-arts/1783-prime-braille-269-bluishgreen-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 269
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                0,
+                158,
+                115
+            ]
+        }
+    ]
+}

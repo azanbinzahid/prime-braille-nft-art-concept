@@ -1,0 +1,23 @@
+{
+    "name": "2928-prime-braille-769-yellow-font3",
+    "description": "A unique braille art with prime number: 769, font-family: Swell-Braille and background-color: yellow",
+    "image": "generated-arts/2928-prime-braille-769-yellow-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 769
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                240,
+                228,
+                66
+            ]
+        }
+    ]
+}

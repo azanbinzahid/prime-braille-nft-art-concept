@@ -1,0 +1,23 @@
+{
+    "name": "3656-prime-braille-743-blue-font1",
+    "description": "A unique braille art with prime number: 743, font-family: Apple Braille Outline 6 Dot and background-color: blue",
+    "image": "generated-arts/3656-prime-braille-743-blue-font1.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 743
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                0,
+                114,
+                178
+            ]
+        }
+    ]
+}

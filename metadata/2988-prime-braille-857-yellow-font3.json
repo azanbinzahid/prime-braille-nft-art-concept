@@ -1,0 +1,23 @@
+{
+    "name": "2988-prime-braille-857-yellow-font3",
+    "description": "A unique braille art with prime number: 857, font-family: Swell-Braille and background-color: yellow",
+    "image": "generated-arts/2988-prime-braille-857-yellow-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 857
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                240,
+                228,
+                66
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "3279-prime-braille-263-blue-font4",
+    "description": "A unique braille art with prime number: 263, font-family: Apple Braille Pinpoint 8 Dot and background-color: blue",
+    "image": "generated-arts/3279-prime-braille-263-blue-font4.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 263
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Pinpoint 8 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                0,
+                114,
+                178
+            ]
+        }
+    ]
+}

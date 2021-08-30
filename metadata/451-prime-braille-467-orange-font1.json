@@ -1,0 +1,23 @@
+{
+    "name": "451-prime-braille-467-orange-font1",
+    "description": "A unique braille art with prime number: 467, font-family: Apple Braille Outline 6 Dot and background-color: orange",
+    "image": "generated-arts/451-prime-braille-467-orange-font1.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 467
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                230,
+                159,
+                0
+            ]
+        }
+    ]
+}

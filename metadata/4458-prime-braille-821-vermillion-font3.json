@@ -1,0 +1,23 @@
+{
+    "name": "4458-prime-braille-821-vermillion-font3",
+    "description": "A unique braille art with prime number: 821, font-family: Swell-Braille and background-color: vermillion",
+    "image": "generated-arts/4458-prime-braille-821-vermillion-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 821
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                213,
+                94,
+                0
+            ]
+        }
+    ]
+}

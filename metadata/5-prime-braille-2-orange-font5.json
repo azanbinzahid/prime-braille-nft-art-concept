@@ -1,0 +1,23 @@
+{
+    "name": "5-prime-braille-2-orange-font5",
+    "description": "A unique braille art with prime number: 2, font-family: Apple Braille Outline 8 Dot and background-color: orange",
+    "image": "generated-arts/5-prime-braille-2-orange-font5.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 2
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 8 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                230,
+                159,
+                0
+            ]
+        }
+    ]
+}

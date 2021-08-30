@@ -1,0 +1,23 @@
+{
+    "name": "1423-prime-braille-761-skyblue-font3",
+    "description": "A unique braille art with prime number: 761, font-family: Swell-Braille and background-color: skyblue",
+    "image": "generated-arts/1423-prime-braille-761-skyblue-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 761
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                86,
+                180,
+                233
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "2092-prime-braille-653-bluishgreen-font2",
+    "description": "A unique braille art with prime number: 653, font-family: Apple Braille Pinpoint 6 Dot and background-color: bluishgreen",
+    "image": "generated-arts/2092-prime-braille-653-bluishgreen-font2.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 653
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Pinpoint 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                0,
+                158,
+                115
+            ]
+        }
+    ]
+}

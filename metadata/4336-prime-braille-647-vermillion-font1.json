@@ -1,0 +1,23 @@
+{
+    "name": "4336-prime-braille-647-vermillion-font1",
+    "description": "A unique braille art with prime number: 647, font-family: Apple Braille Outline 6 Dot and background-color: vermillion",
+    "image": "generated-arts/4336-prime-braille-647-vermillion-font1.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 647
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                213,
+                94,
+                0
+            ]
+        }
+    ]
+}

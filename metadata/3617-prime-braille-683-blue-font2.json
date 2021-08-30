@@ -1,0 +1,23 @@
+{
+    "name": "3617-prime-braille-683-blue-font2",
+    "description": "A unique braille art with prime number: 683, font-family: Apple Braille Pinpoint 6 Dot and background-color: blue",
+    "image": "generated-arts/3617-prime-braille-683-blue-font2.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 683
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Pinpoint 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                0,
+                114,
+                178
+            ]
+        }
+    ]
+}

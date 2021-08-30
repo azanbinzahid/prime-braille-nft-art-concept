@@ -1,0 +1,23 @@
+{
+    "name": "3523-prime-braille-571-blue-font3",
+    "description": "A unique braille art with prime number: 571, font-family: Swell-Braille and background-color: blue",
+    "image": "generated-arts/3523-prime-braille-571-blue-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 571
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                0,
+                114,
+                178
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "4216-prime-braille-491-vermillion-font1",
+    "description": "A unique braille art with prime number: 491, font-family: Apple Braille Outline 6 Dot and background-color: vermillion",
+    "image": "generated-arts/4216-prime-braille-491-vermillion-font1.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 491
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                213,
+                94,
+                0
+            ]
+        }
+    ]
+}

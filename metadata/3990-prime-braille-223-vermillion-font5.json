@@ -1,0 +1,23 @@
+{
+    "name": "3990-prime-braille-223-vermillion-font5",
+    "description": "A unique braille art with prime number: 223, font-family: Apple Braille Outline 8 Dot and background-color: vermillion",
+    "image": "generated-arts/3990-prime-braille-223-vermillion-font5.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 223
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 8 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                213,
+                94,
+                0
+            ]
+        }
+    ]
+}

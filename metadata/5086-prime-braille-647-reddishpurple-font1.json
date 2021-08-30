@@ -1,0 +1,23 @@
+{
+    "name": "5086-prime-braille-647-reddishpurple-font1",
+    "description": "A unique braille art with prime number: 647, font-family: Apple Braille Outline 6 Dot and background-color: reddishpurple",
+    "image": "generated-arts/5086-prime-braille-647-reddishpurple-font1.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 647
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                204,
+                121,
+                167
+            ]
+        }
+    ]
+}

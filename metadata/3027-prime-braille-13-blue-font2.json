@@ -1,0 +1,23 @@
+{
+    "name": "3027-prime-braille-13-blue-font2",
+    "description": "A unique braille art with prime number: 13, font-family: Apple Braille Pinpoint 6 Dot and background-color: blue",
+    "image": "generated-arts/3027-prime-braille-13-blue-font2.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 13
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Pinpoint 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                0,
+                114,
+                178
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "308-prime-braille-293-orange-font3",
+    "description": "A unique braille art with prime number: 293, font-family: Swell-Braille and background-color: orange",
+    "image": "generated-arts/308-prime-braille-293-orange-font3.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 293
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Swell-Braille"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                230,
+                159,
+                0
+            ]
+        }
+    ]
+}

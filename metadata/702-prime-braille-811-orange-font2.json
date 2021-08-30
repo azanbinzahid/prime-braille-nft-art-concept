@@ -1,0 +1,23 @@
+{
+    "name": "702-prime-braille-811-orange-font2",
+    "description": "A unique braille art with prime number: 811, font-family: Apple Braille Pinpoint 6 Dot and background-color: orange",
+    "image": "generated-arts/702-prime-braille-811-orange-font2.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 811
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Pinpoint 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                230,
+                159,
+                0
+            ]
+        }
+    ]
+}

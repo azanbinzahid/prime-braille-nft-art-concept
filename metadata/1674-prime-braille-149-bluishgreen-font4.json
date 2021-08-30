@@ -1,0 +1,23 @@
+{
+    "name": "1674-prime-braille-149-bluishgreen-font4",
+    "description": "A unique braille art with prime number: 149, font-family: Apple Braille Pinpoint 8 Dot and background-color: bluishgreen",
+    "image": "generated-arts/1674-prime-braille-149-bluishgreen-font4.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 149
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Pinpoint 8 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                0,
+                158,
+                115
+            ]
+        }
+    ]
+}

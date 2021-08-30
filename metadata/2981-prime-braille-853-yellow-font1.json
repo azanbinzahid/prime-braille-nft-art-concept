@@ -1,0 +1,23 @@
+{
+    "name": "2981-prime-braille-853-yellow-font1",
+    "description": "A unique braille art with prime number: 853, font-family: Apple Braille Outline 6 Dot and background-color: yellow",
+    "image": "generated-arts/2981-prime-braille-853-yellow-font1.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 853
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                240,
+                228,
+                66
+            ]
+        }
+    ]
+}

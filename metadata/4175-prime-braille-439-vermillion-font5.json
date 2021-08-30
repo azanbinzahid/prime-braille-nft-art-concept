@@ -1,0 +1,23 @@
+{
+    "name": "4175-prime-braille-439-vermillion-font5",
+    "description": "A unique braille art with prime number: 439, font-family: Apple Braille Outline 8 Dot and background-color: vermillion",
+    "image": "generated-arts/4175-prime-braille-439-vermillion-font5.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 439
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Outline 8 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                213,
+                94,
+                0
+            ]
+        }
+    ]
+}

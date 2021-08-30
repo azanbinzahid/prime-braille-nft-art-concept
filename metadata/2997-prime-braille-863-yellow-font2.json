@@ -1,0 +1,23 @@
+{
+    "name": "2997-prime-braille-863-yellow-font2",
+    "description": "A unique braille art with prime number: 863, font-family: Apple Braille Pinpoint 6 Dot and background-color: yellow",
+    "image": "generated-arts/2997-prime-braille-863-yellow-font2.png",
+    "attributes": [
+        {
+            "trait_type": "prime_number",
+            "value": 863
+        },
+        {
+            "trait_type": "braille_font",
+            "value": "Apple Braille Pinpoint 6 Dot"
+        },
+        {
+            "trait_type": "bg_color",
+            "value": [
+                240,
+                228,
+                66
+            ]
+        }
+    ]
+}
