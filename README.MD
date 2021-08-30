@@ -28,4 +28,4 @@ Since this art is in a concept phase and can be improved using a more crisp busi
 - Install required dependencies e.g. `pip3 install -r requiremenets.txt`
 - Make approproate changes in `scripts/generate.py` (optional)
 - Run script e.g. `python scripts/generate.py`
-- Follow instructions on command 
+- Follow command line instructions
